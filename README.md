@@ -4,7 +4,14 @@ A responsive and interactive time tracking dashboard designed by Frontend Mentor
 
 ![Demo gif](images/time%20tracker%20dashboard%20demo.gif)
 
+
 ![Desktop](images/time-tracking-dashboard-large.JPG)
+
+
 ![Laptop](images/time-tracking-dashboard-md.JPG)
+
+
 ![Tablet](images/time-tracking-dashboard-sm.JPG)
+
+
 ![Desktop](images/time-tracking-dashboard-xs.JPG)
